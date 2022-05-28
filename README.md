@@ -6,6 +6,10 @@ Cloud Computing, DevOps, and Cybersecurity are some of my areas of interest.
 One big topic nowadays in Technology is the Cloud Computing, and actually it is a passion for me to learn; 
 Therefore I've decided to start acquiring the skills relevant to this technology through the available providers resources and certifications like AWS, GCP, or Azure. 
 
+Please visit my portfolio at https://adonisezzeddine.github.io/ 
+Linkedin at https://lb.linkedin.com/in/adonis-ezzeddine-190591151
+
+
 <!---
 adonisezzeddine/adonisezzeddine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
